@@ -1,0 +1,3 @@
+${scenario},${username},${password},$(first_name},${last_name},${postal_code}
+Positive,standard_user,secret_sauce,John,Doe,12345
+Negative,locked_out_user,wrong_pass,John,Doe,12345
